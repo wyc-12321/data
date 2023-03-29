@@ -6,3 +6,4 @@
 *.exp
 !client.dll
 !devrtl.dll
+.gitignore
